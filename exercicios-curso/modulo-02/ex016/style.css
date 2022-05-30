@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(236, 243, 237, 0.644);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h1 {
+    background-color: rgb(80, 196, 76);
+    color: blue;
+
+}
+
+h2 {
+
+    color: blueviolet;
+}
